@@ -28,13 +28,6 @@ This repository covers the essential **mathematical foundations** required for u
 
 ---
 
-### 📌 Structure
-- `notebooks/` – Jupyter notebooks with theory + Python examples  
-- `visualizations/` – Graphs, matrix plots, and probability distributions  
-- `datasets/` – Sample datasets for statistical analysis
-
----
-
 ### 🎯 Ideal For
 - Beginners in ML wanting to solidify math foundations  
 - Data scientists brushing up on core concepts  
